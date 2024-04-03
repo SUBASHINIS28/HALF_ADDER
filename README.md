@@ -39,4 +39,6 @@ STEP:12 On the board, by giving required input, the LEDs starts to glow light, i
 module half_adder(a,b,sum,carry); input a,b; output sum,carry; xor g1(sum,a,b); and g2(carry,a,b); endmodule
 # Output
 ![image](https://github.com/SUBASHINIS28/HALF_ADDER/assets/153823077/ef54fd85-00ed-41a7-ad91-63a0ff886827)
+# Result
+Thus the simulatation and synthesis of half adder using vivado was successfully executed and verified.
 
